@@ -18,7 +18,8 @@ Hello! I am WingchikKong, a student passionate about data science. I enjoy using
 
 *The violin plots indicate that people with higher education tend to have a higher annual salary, while weekly working hours remain relatively stable across different education groups.*
 
-**Project Repository:** [Click here to view the source code](https://github.com/WingchikKong/data-science-project)
+**Project Repository:** [Click here to view the source code](https://github.com/WingchikKong/data-science-project)  
+
 **Project Status:** Completed
 
 ---
